@@ -65,7 +65,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Web3.js - https://github.com/ethereum/web3.js/
 javascript
 
-## youtube contact
-
-https://www.youtube.com/@Cryptopunkstar
-
