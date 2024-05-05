@@ -15,7 +15,7 @@ npm install examcrypto
 ```
 ## Usage
 
-const SimpleWeb3Project = require('cryptopunkstar-eth');
+const SimpleWeb3Project = require('examcrypto');
 
 // Create an instance with your preferred Ethereum node endpoint
 const web3Project = new SimpleWeb3Project('https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID');
