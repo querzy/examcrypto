@@ -54,7 +54,7 @@ web3Project.callContractMethod(contractAddress, abi, methodName, methodParams)
 
 Replace 'https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID' with your actual Infura project ID.
 
-Replace '0x1234..........................333', [], and 'methodName' with the actual contract address, ABI, method name, and method parameters respectively.
+Replace '0x1234..........................333', [], and ' methodName' with the actual contract address, ABI, method name, and method parameters respectively.
 
 ## License
 
