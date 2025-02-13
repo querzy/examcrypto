@@ -8,7 +8,7 @@ Simple Web3 Project is a JavaScript library that provides a simple interface for
 
 ## Installation
 
-You can install Simple Web3 Project via npm:
+You can install Simple Web3 Project via  npm:
 
 ```bash
 npm install examcrypto
